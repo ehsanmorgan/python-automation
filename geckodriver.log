@@ -1,0 +1,923 @@
+1686089389511	geckodriver	INFO	Listening on 127.0.0.1:59995
+1686089390034	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofileIwjxW3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686089391211	Marionette	INFO	Marionette enabled
+1686089391661	Marionette	INFO	Listening on port 60005
+Read port: 60005
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:59996
+1686089392137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-06-07 00:09:53.076 plugin-container[10107:801099] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:09:53.078 plugin-container[10107:801099] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:09:53.085 plugin-container[10107:801099] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:09:53.085 plugin-container[10107:801099] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:09:53.087 plugin-container[10107:801103] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:09:53.087 plugin-container[10107:801103] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:59996/devtools/browser/4fa28ca3-f169-47aa-ad69-6255f4de72ce
+2023-06-06 22:09:56.685 plugin-container[10118:801501] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 22:09:56.686 plugin-container[10118:801501] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-06 22:09:56.691 plugin-container[10118:801501] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 22:09:56.691 plugin-container[10118:801501] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-06 22:09:56.692 plugin-container[10118:801499] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 22:09:56.692 plugin-container[10118:801499] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1686089398269	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Grx7oFpFltq8b-fsl1vgPlw_mz8UVJv5RtxGiy-srTQ.js line 2 > eval line 549 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-06-06 22:10:01.875 plugin-container[10129:801738] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 22:10:01.875 plugin-container[10129:801738] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-06 22:10:01.901 plugin-container[10129:801738] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 22:10:01.907 plugin-container[10129:801738] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-06 22:10:01.908 plugin-container[10129:801740] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 22:10:01.908 plugin-container[10129:801740] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.google.com/js/th/JF2eii1kyhF9uLrjdHdlzksnpph7hdM6Lhf1MY88MeI.js line 2 > eval line 111 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 484: TypeError: browser is null
+1686089418694	Marionette	INFO	Stopped listening on port 60005
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1686089828980	geckodriver	INFO	Listening on 127.0.0.1:60113
+1686089828995	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofileZCzjLn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686089830147	Marionette	INFO	Marionette enabled
+1686089830357	Marionette	INFO	Listening on port 60119
+Read port: 60119
+2023-06-07 00:17:10.526 plugin-container[10402:804868] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:17:10.526 plugin-container[10402:804868] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:17:10.532 plugin-container[10402:804868] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:17:10.532 plugin-container[10402:804868] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:17:10.533 plugin-container[10402:804873] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:17:10.533 plugin-container[10402:804873] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:60114
+1686089830702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60114/devtools/browser/84891830-990e-46df-98d9-6251ac7d156b
+1686089856469	Marionette	INFO	Stopped listening on port 60119
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1686090029433	geckodriver	INFO	Listening on 127.0.0.1:60172
+1686090029981	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofileRpkrOq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686090031132	Marionette	INFO	Marionette enabled
+1686090031411	Marionette	INFO	Listening on port 60182
+Read port: 60182
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-07 00:20:31.605 plugin-container[10524:806793] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:20:31.606 plugin-container[10524:806793] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:60173
+2023-06-07 00:20:31.660 plugin-container[10524:806793] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:20:31.660 plugin-container[10524:806793] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:20:31.661 plugin-container[10524:806790] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:20:31.662 plugin-container[10524:806790] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1686090031704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60173/devtools/browser/ec6655c6-3cd3-4bcb-87bd-329d80555872
+1686090232526	geckodriver	INFO	Listening on 127.0.0.1:60234
+1686090233064	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofilesw61yx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686090234235	Marionette	INFO	Marionette enabled
+1686090234642	Marionette	INFO	Listening on port 60244
+2023-06-07 00:23:54.688 plugin-container[10650:809829] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:23:54.688 plugin-container[10650:809829] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:23:54.694 plugin-container[10650:809829] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:23:54.695 plugin-container[10650:809829] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:23:54.695 plugin-container[10650:809832] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:23:54.695 plugin-container[10650:809832] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 60244
+WebDriver BiDi listening on ws://127.0.0.1:60235
+1686090234862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60235/devtools/browser/9391c591-02ae-4aa7-8bca-23ff1517bd82
+1686090278163	geckodriver	INFO	Listening on 127.0.0.1:60286
+1686090278695	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofileqOyblj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686090279733	Marionette	INFO	Marionette enabled
+1686090280218	Marionette	INFO	Listening on port 60296
+Read port: 60296
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:60287
+1686090280427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-06-07 00:24:40.547 plugin-container[10708:810591] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:24:40.548 plugin-container[10708:810591] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:24:40.555 plugin-container[10708:810591] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:24:40.556 plugin-container[10708:810591] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:24:40.556 plugin-container[10708:810597] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:24:40.556 plugin-container[10708:810597] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:60287/devtools/browser/dc5a3db3-80e1-46aa-98f4-be3a140cd66a
+1686090291343	Marionette	INFO	Stopped listening on port 60182
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1686090294594	Marionette	INFO	Stopped listening on port 60244
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1686090296533	Marionette	INFO	Stopped listening on port 60296
+1686090321872	geckodriver	INFO	Listening on 127.0.0.1:60331
+1686090321888	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofilebCCdTc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686090323034	Marionette	INFO	Marionette enabled
+1686090323296	Marionette	INFO	Listening on port 60339
+Read port: 60339
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-07 00:25:23.546 plugin-container[10773:811402] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:25:23.551 plugin-container[10773:811402] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:25:23.560 plugin-container[10773:811402] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:25:23.562 plugin-container[10773:811402] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:25:23.562 plugin-container[10773:811403] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:25:23.562 plugin-container[10773:811403] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:60332
+1686090323819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60332/devtools/browser/d771db68-a781-4999-ab6f-9868f861d6a3
+1686090449274	geckodriver	INFO	Listening on 127.0.0.1:60388
+1686090449304	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofileQsga4W"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686090450438	Marionette	INFO	Marionette enabled
+2023-06-07 00:27:30.821 plugin-container[10886:812879] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:27:30.822 plugin-container[10886:812879] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:27:30.826 plugin-container[10886:812879] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:27:30.826 plugin-container[10886:812879] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:27:30.826 plugin-container[10886:812880] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:27:30.826 plugin-container[10886:812880] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1686090450876	Marionette	INFO	Listening on port 60396
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 60396
+WebDriver BiDi listening on ws://127.0.0.1:60389
+1686090451036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60389/devtools/browser/048c9c11-d415-4add-8094-7f30d37646ce
+1686090738851	geckodriver	INFO	Listening on 127.0.0.1:60468
+1686090739381	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofileQl95Rr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686090740655	Marionette	INFO	Marionette enabled
+1686090740875	Marionette	INFO	Listening on port 60478
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 60478
+WebDriver BiDi listening on ws://127.0.0.1:60469
+2023-06-07 00:32:21.447 plugin-container[11046:815147] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:32:21.448 plugin-container[11046:815147] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:32:21.494 plugin-container[11046:815147] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:32:21.494 plugin-container[11046:815147] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:32:21.495 plugin-container[11046:815145] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:32:21.495 plugin-container[11046:815145] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1686090741558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60469/devtools/browser/82ee3efe-f491-4224-9585-c3f314fbac30
+1686090777972	geckodriver	INFO	Listening on 127.0.0.1:60517
+1686090778491	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofilem2icAO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686090779131	Marionette	INFO	Marionette enabled
+1686090779633	Marionette	INFO	Listening on port 60526
+Read port: 60526
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-07 00:32:59.848 plugin-container[11103:815920] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:32:59.848 plugin-container[11103:815920] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:32:59.857 plugin-container[11103:815920] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:32:59.857 plugin-container[11103:815920] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:32:59.857 plugin-container[11103:815924] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:32:59.857 plugin-container[11103:815924] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:60518
+1686090780159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60518/devtools/browser/a52ac042-29a9-45ef-aa56-66fc7a65964a
+1686090808291	Marionette	INFO	Stopped listening on port 60339
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1686090810305	Marionette	INFO	Stopped listening on port 60396
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1686090812867	Marionette	INFO	Stopped listening on port 60478
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1686090815762	Marionette	INFO	Stopped listening on port 60526
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1686090861252	geckodriver	INFO	Listening on 127.0.0.1:60570
+1686090861785	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofileYlr0JX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686090862835	Marionette	INFO	Marionette enabled
+1686090863035	Marionette	INFO	Listening on port 60580
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 60580
+2023-06-07 00:34:23.357 plugin-container[11182:817051] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:34:23.358 plugin-container[11182:817051] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:34:23.367 plugin-container[11182:817051] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:34:23.367 plugin-container[11182:817051] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:34:23.368 plugin-container[11182:817044] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:34:23.368 plugin-container[11182:817044] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:60571
+1686090863721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60571/devtools/browser/2e5a3d64-84ca-42f3-93ab-a4d509743537
+1686091034167	geckodriver	INFO	Listening on 127.0.0.1:60645
+1686091034691	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofilef94vaz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686091035544	Marionette	INFO	Marionette enabled
+1686091035721	Marionette	INFO	Listening on port 60653
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 60653
+WebDriver BiDi listening on ws://127.0.0.1:60646
+2023-06-07 00:37:15.999 plugin-container[11317:818924] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:37:16.001 plugin-container[11317:818924] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:37:16.039 plugin-container[11317:818924] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:37:16.039 plugin-container[11317:818924] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:37:16.039 plugin-container[11317:818934] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:37:16.039 plugin-container[11317:818934] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1686091036055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60646/devtools/browser/49510546-7814-4646-8ee7-b4ffec191188
+1686091089893	geckodriver	INFO	Listening on 127.0.0.1:60696
+1686091090426	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofileeSa9iy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686091091548	Marionette	INFO	Marionette enabled
+1686091091780	Marionette	INFO	Listening on port 60706
+Read port: 60706
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-07 00:38:12.108 plugin-container[11378:819833] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:38:12.108 plugin-container[11378:819833] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:38:12.121 plugin-container[11378:819833] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:38:12.122 plugin-container[11378:819833] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:38:12.122 plugin-container[11378:819835] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:38:12.122 plugin-container[11378:819835] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:60697
+1686091092612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60697/devtools/browser/9aacbb05-bce7-4b46-9259-acb6265c7771
+1686091147465	geckodriver	INFO	Listening on 127.0.0.1:60752
+1686091147996	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofileuU96R9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686091149182	Marionette	INFO	Marionette enabled
+1686091149451	Marionette	INFO	Listening on port 60761
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 60761
+WebDriver BiDi listening on ws://127.0.0.1:60753
+1686091149803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-06-07 00:39:10.224 plugin-container[11442:820714] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:39:10.226 plugin-container[11442:820714] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:39:10.282 plugin-container[11442:820714] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:39:10.282 plugin-container[11442:820714] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:39:10.286 plugin-container[11442:820721] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:39:10.286 plugin-container[11442:820721] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:60753/devtools/browser/97a1213e-b7d0-4775-abe9-9f12095fa684
+2023-06-06 22:39:15.221 plugin-container[11453:821006] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 22:39:15.222 plugin-container[11453:821006] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-06 22:39:15.228 plugin-container[11453:821006] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 22:39:15.228 plugin-container[11453:821006] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-06 22:39:15.229 plugin-container[11453:821025] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 22:39:15.229 plugin-container[11453:821025] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+JavaScript error: https://www.geeksforgeeks.org/wp-content/themes/iconic-one/js/gfg.min.js?ver=11.93, line 2: TypeError: document.querySelector(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.geeksforgeeks.org."
+1686091239317	geckodriver	INFO	Listening on 127.0.0.1:60853
+1686091239854	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofileUuBAn5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686091241277	Marionette	INFO	Marionette enabled
+1686091241558	Marionette	INFO	Listening on port 60863
+Read port: 60863
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-07 00:40:41.951 plugin-container[11519:822022] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:40:41.952 plugin-container[11519:822022] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:40:41.960 plugin-container[11519:822022] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:40:41.960 plugin-container[11519:822022] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:40:41.961 plugin-container[11519:822027] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:40:41.961 plugin-container[11519:822027] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:60854
+1686091242254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60854/devtools/browser/3d150b84-0950-4539-be66-0ebecf92ff57
+2023-06-06 22:40:49.242 plugin-container[11532:822335] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 22:40:49.242 plugin-container[11532:822335] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-06 22:40:49.348 plugin-container[11532:822335] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 22:40:49.348 plugin-container[11532:822335] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-06 22:40:49.348 plugin-container[11532:822377] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 22:40:49.348 plugin-container[11532:822377] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1686091557365	Marionette	INFO	Stopped listening on port 60863
+1686091559933	Marionette	INFO	Stopped listening on port 60706
+1686091565199	Marionette	INFO	Stopped listening on port 60761
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1686091568525	Marionette	INFO	Stopped listening on port 60653
+1686091571450	Marionette	INFO	Stopped listening on port 60580
+1686091687695	geckodriver	INFO	Listening on 127.0.0.1:61017
+1686091688220	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofileEY4kNj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686091689489	Marionette	INFO	Marionette enabled
+1686091689714	Marionette	INFO	Listening on port 61027
+Read port: 61027
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-07 00:48:09.982 plugin-container[11902:825920] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:48:09.982 plugin-container[11902:825920] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:48:09.990 plugin-container[11902:825920] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:48:09.990 plugin-container[11902:825920] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:48:09.991 plugin-container[11902:825922] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:48:09.991 plugin-container[11902:825922] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:61018
+1686091690285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61018/devtools/browser/4d34715e-0200-4609-be87-058f2f57033f
+2023-06-06 22:48:16.022 plugin-container[11913:826260] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 22:48:16.023 plugin-container[11913:826260] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-06 22:48:16.115 plugin-container[11913:826260] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 22:48:16.115 plugin-container[11913:826260] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-06 22:48:16.115 plugin-container[11913:826262] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 22:48:16.115 plugin-container[11913:826262] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1686092135900	geckodriver	INFO	Listening on 127.0.0.1:61183
+1686092136429	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofilesdSOz5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686092137817	Marionette	INFO	Marionette enabled
+1686092137994	Marionette	INFO	Listening on port 61193
+Read port: 61193
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61184
+1686092138546	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-06-07 00:55:38.917 plugin-container[12142:830775] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:55:38.918 plugin-container[12142:830775] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:55:38.931 plugin-container[12142:830775] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:55:38.931 plugin-container[12142:830775] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 00:55:38.931 plugin-container[12142:830785] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 00:55:38.931 plugin-container[12142:830785] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:61184/devtools/browser/98a32540-5531-46bd-8235-f10ad35830fc
+1686092493119	Marionette	INFO	Stopped listening on port 61193
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1686092495453	Marionette	INFO	Stopped listening on port 61027
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1686092641261	geckodriver	INFO	Listening on 127.0.0.1:61302
+1686092641774	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofilegkiRIP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686092642874	Marionette	INFO	Marionette enabled
+1686092643128	Marionette	INFO	Listening on port 61312
+Read port: 61312
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-07 01:04:03.503 plugin-container[12478:835131] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:04:03.504 plugin-container[12478:835131] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:04:03.517 plugin-container[12478:835131] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:04:03.517 plugin-container[12478:835131] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:04:03.518 plugin-container[12478:835134] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:04:03.518 plugin-container[12478:835134] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:61303
+1686092643838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61303/devtools/browser/4a622ef6-3772-4f35-bad5-328c6c1cb215
+1686092745183	geckodriver	INFO	Listening on 127.0.0.1:61355
+1686092745699	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofileGy4fCu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686092747007	Marionette	INFO	Marionette enabled
+1686092747215	Marionette	INFO	Listening on port 61366
+Read port: 61366
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-07 01:05:47.444 plugin-container[12558:836382] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:05:47.445 plugin-container[12558:836382] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:05:47.449 plugin-container[12558:836382] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:05:47.449 plugin-container[12558:836382] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:05:47.451 plugin-container[12558:836383] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:05:47.451 plugin-container[12558:836383] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:61356
+1686092747782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61356/devtools/browser/7a2e9d8f-9740-438f-a683-957d03f98cf4
+1686092791752	geckodriver	INFO	Listening on 127.0.0.1:61419
+1686092792291	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofile1HwK0v"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686092793397	Marionette	INFO	Marionette enabled
+2023-06-07 01:06:33.751 plugin-container[12650:837441] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:06:33.752 plugin-container[12650:837441] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:06:33.778 plugin-container[12650:837441] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:06:33.778 plugin-container[12650:837441] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:06:33.779 plugin-container[12650:837444] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:06:33.779 plugin-container[12650:837444] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1686092793913	Marionette	INFO	Listening on port 61429
+Read port: 61429
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61420
+1686092794147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61420/devtools/browser/b6281cb0-fb95-4660-a62a-9a0a909335a4
+1686092842497	geckodriver	INFO	Listening on 127.0.0.1:61478
+1686092843037	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofilexqdYn8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686092844314	Marionette	INFO	Marionette enabled
+1686092844505	Marionette	INFO	Listening on port 61488
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+Read port: 61488
+2023-06-07 01:07:24.842 plugin-container[12712:838356] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:07:24.843 plugin-container[12712:838356] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:07:24.849 plugin-container[12712:838356] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:07:24.849 plugin-container[12712:838356] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:07:24.850 plugin-container[12712:838353] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:07:24.850 plugin-container[12712:838353] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:61479
+1686092844958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61479/devtools/browser/c9b51ec0-d94e-476a-ad97-d59b0dcb0cd4
+1686092987151	geckodriver	INFO	Listening on 127.0.0.1:61536
+1686092987685	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofile1p5tPW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686092989169	Marionette	INFO	Marionette enabled
+1686092989798	Marionette	INFO	Listening on port 61547
+2023-06-07 01:09:49.833 plugin-container[12808:840080] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:09:49.834 plugin-container[12808:840080] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:09:49.854 plugin-container[12808:840080] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:09:49.854 plugin-container[12808:840080] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:09:49.855 plugin-container[12808:840088] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:09:49.855 plugin-container[12808:840088] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 61547
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61537
+1686092990060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61537/devtools/browser/ee97237b-cf5d-4048-a180-9ec44402511d
+1686093018034	geckodriver	INFO	Listening on 127.0.0.1:61579
+1686093018562	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofilevD8adg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686093019144	Marionette	INFO	Marionette enabled
+1686093019549	Marionette	INFO	Listening on port 61595
+Read port: 61595
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-07 01:10:20.132 plugin-container[12862:840782] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:10:20.133 plugin-container[12862:840782] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:10:20.138 plugin-container[12862:840782] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:10:20.138 plugin-container[12862:840782] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:10:20.139 plugin-container[12862:840783] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:10:20.139 plugin-container[12862:840783] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:61580
+1686093020257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61580/devtools/browser/5dbd86d5-5d2b-4e10-ab0d-197d8ab16fc7
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:189:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:106:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:667:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:711:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:587:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:189:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:106:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:667:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:332:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:189:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:106:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:667:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:711:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:587:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:189:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:106:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:667:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:332:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1686093123155	Marionette	INFO	Stopped listening on port 61312
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1686093125831	Marionette	INFO	Stopped listening on port 61366
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1686093127885	Marionette	INFO	Stopped listening on port 61429
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1686093130430	Marionette	INFO	Stopped listening on port 61488
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1686093132882	Marionette	INFO	Stopped listening on port 61547
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1686093134675	Marionette	INFO	Stopped listening on port 61595
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1686093287292	geckodriver	INFO	Listening on 127.0.0.1:61668
+1686093287815	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofileVY9wFP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686093289018	Marionette	INFO	Marionette enabled
+1686093289198	Marionette	INFO	Listening on port 61677
+Read port: 61677
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61669
+1686093289539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2023-06-07 01:14:49.562 plugin-container[13071:843399] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:14:49.562 plugin-container[13071:843399] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:14:49.612 plugin-container[13071:843399] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:14:49.612 plugin-container[13071:843399] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:14:49.617 plugin-container[13071:843404] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:14:49.617 plugin-container[13071:843404] nil host used in call to allowsAnyHTTPSCertificateForHost:
+DevTools listening on ws://127.0.0.1:61669/devtools/browser/5874f505-3d1a-4586-b135-b60d24405d5c
+1686093443367	geckodriver	INFO	Listening on 127.0.0.1:61727
+1686093443379	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofileFOvi8X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686093444220	Marionette	INFO	Marionette enabled
+1686093444399	Marionette	INFO	Listening on port 61733
+Read port: 61733
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-07 01:17:24.590 plugin-container[13193:845045] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:17:24.590 plugin-container[13193:845045] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:17:24.595 plugin-container[13193:845045] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:17:24.595 plugin-container[13193:845045] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:17:24.596 plugin-container[13193:845043] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:17:24.596 plugin-container[13193:845043] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:61728
+1686093444879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61728/devtools/browser/385f501b-0630-452b-94cc-93cba64b8abc
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:189:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:106:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:667:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:711:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:587:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:189:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:106:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:667:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:332:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1686093484883	Marionette	INFO	Stopped listening on port 61677
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+1686093487221	Marionette	INFO	Stopped listening on port 61733
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1686093555627	geckodriver	INFO	Listening on 127.0.0.1:61782
+1686093555647	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofileo1RsIK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686093556793	Marionette	INFO	Marionette enabled
+1686093556935	Marionette	INFO	Listening on port 61788
+Read port: 61788
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-07 01:19:17.106 plugin-container[13289:846641] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:19:17.107 plugin-container[13289:846641] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:19:17.113 plugin-container[13289:846641] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:19:17.113 plugin-container[13289:846641] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:19:17.114 plugin-container[13289:846639] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:19:17.114 plugin-container[13289:846639] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:61783
+1686093557397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61783/devtools/browser/481cee14-817c-4755-b88b-a74453daf8a6
+1686093574099	geckodriver	INFO	Listening on 127.0.0.1:61822
+1686093574111	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofilenkyDqP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686093574890	Marionette	INFO	Marionette enabled
+1686093575172	Marionette	INFO	Listening on port 61828
+Read port: 61828
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-07 01:19:35.421 plugin-container[13338:847187] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:19:35.422 plugin-container[13338:847187] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:19:35.446 plugin-container[13338:847187] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:19:35.446 plugin-container[13338:847187] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:19:35.449 plugin-container[13338:847189] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:19:35.449 plugin-container[13338:847189] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:61823
+1686093575779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61823/devtools/browser/0a5bc31a-cd62-41de-b4e0-a413d294a1c7
+1686093581081	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+2023-06-06 23:19:41.708 plugin-container[13350:847568] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 23:19:41.709 plugin-container[13350:847568] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-06 23:19:41.714 plugin-container[13350:847568] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 23:19:41.714 plugin-container[13350:847568] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-06 23:19:41.714 plugin-container[13350:847585] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 23:19:41.714 plugin-container[13350:847585] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: LoginHelper(Main): "Couldn't parse specified uri about:newtab with error NS_ERROR_FAILURE"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1686093743096	geckodriver	INFO	Listening on 127.0.0.1:61903
+1686093743623	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofilefcNzX9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686093744976	Marionette	INFO	Marionette enabled
+2023-06-07 01:22:25.485 plugin-container[13482:850308] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:22:25.487 plugin-container[13482:850308] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:22:25.499 plugin-container[13482:850308] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:22:25.499 plugin-container[13482:850308] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:22:25.500 plugin-container[13482:850312] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:22:25.500 plugin-container[13482:850312] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1686093745607	Marionette	INFO	Listening on port 61913
+Read port: 61913
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+WebDriver BiDi listening on ws://127.0.0.1:61904
+1686093745791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61904/devtools/browser/f6aec033-d000-403b-b1d7-2029d1c9c170
+2023-06-07 01:23:39.733 firefox-bin[13479:850204] TSM AdjustCapsLockLEDForKeyTransitionHandling - _ISSetPhysicalKeyboardCapsLockLED Inhibit
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+JavaScript warning: https://www.amazon.de/?&tag=hydraamazon09-21&ref=pd_sl_781ozcfkw7_e&adgrpid=71137539015&hvpone=&hvptwo=&hvadid=352566565909&hvpos=&hvnetw=g&hvrand=3627179024242247261&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9043843&hvtargid=kwd-10573980&hydadcr=12763_1720986 line 2078 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81e-e4UxsaL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.de."
+1686093936106	geckodriver	INFO	Listening on 127.0.0.1:62005
+1686093936637	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofileYqtszp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686093937691	Marionette	INFO	Marionette enabled
+1686093937851	Marionette	INFO	Listening on port 62015
+Read port: 62015
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-07 01:25:38.067 plugin-container[13603:852335] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:25:38.068 plugin-container[13603:852335] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:25:38.075 plugin-container[13603:852335] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:25:38.075 plugin-container[13603:852335] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:25:38.075 plugin-container[13603:852338] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:25:38.075 plugin-container[13603:852338] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:62006
+1686093938578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62006/devtools/browser/493a5f0d-4783-4a3b-9f17-97b11f34fba7
+JavaScript warning: https://www.amazon.de/?&tag=hydraamazon09-21&ref=pd_sl_781ozcfkw7_e&adgrpid=71137539015&hvpone=&hvptwo=&hvadid=352566565909&hvpos=&hvnetw=g&hvrand=3627179024242247261&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9043843&hvtargid=kwd-10573980&hydadcr=12763_1720986 line 2055 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1686093945076	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:424:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.de."
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:189:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:106:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:667:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:711:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:587:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1348:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:504:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:617:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1348, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1348))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:189:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:106:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:667:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:711:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:587:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1348:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:504:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:617:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1348, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1348))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:189:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:106:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:667:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:325:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:189:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:106:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:667:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:332:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1686094054860	geckodriver	INFO	Listening on 127.0.0.1:62092
+1686094055390	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofileN8ldCe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686094056783	Marionette	INFO	Marionette enabled
+1686094056925	Marionette	INFO	Listening on port 62102
+Read port: 62102
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-07 01:27:37.278 plugin-container[13713:854016] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:27:37.278 plugin-container[13713:854016] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:62093
+2023-06-07 01:27:37.327 plugin-container[13713:854016] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:27:37.327 plugin-container[13713:854016] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:27:37.328 plugin-container[13713:854019] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:27:37.329 plugin-container[13713:854019] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1686094057346	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62093/devtools/browser/11850fdf-7f7e-47a2-9026-ffd5c8ac973f
+JavaScript warning: https://www.amazon.de/?&tag=hydraamazon09-21&ref=pd_sl_781ozcfkw7_e&adgrpid=71137539015&hvpone=&hvptwo=&hvadid=352566565909&hvpos=&hvnetw=g&hvrand=3627179024242247261&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9043843&hvtargid=kwd-10573980&hydadcr=12763_1720986 line 2054 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/81e-e4UxsaL.js?AUIClients/FWCIMAssets, line 298: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.de."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.de."
+1686094108709	geckodriver	INFO	Listening on 127.0.0.1:62169
+1686094109227	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/dh/pq6_jmfj69l021nrq_h7x9900000gn/T/rust_mozprofile06FUQM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686094110339	Marionette	INFO	Marionette enabled
+1686094110522	Marionette	INFO	Listening on port 62179
+Read port: 62179
+console.error: "Warning: unrecognized command line flag -remote-allow-hosts\n"
+2023-06-07 01:28:30.929 plugin-container[13779:855148] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:28:30.929 plugin-container[13779:855148] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:28:30.937 plugin-container[13779:855148] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:28:30.937 plugin-container[13779:855148] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-07 01:28:30.938 plugin-container[13779:855149] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-07 01:28:30.938 plugin-container[13779:855149] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:62170
+1686094111102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62170/devtools/browser/8a720188-31d7-4338-a365-f87500b92a69
+JavaScript warning: https://www.amazon.de/?&tag=hydraamazon09-21&ref=pd_sl_781ozcfkw7_e&adgrpid=71137539015&hvpone=&hvptwo=&hvadid=352566565909&hvpos=&hvnetw=g&hvrand=3627179024242247261&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9043843&hvtargid=kwd-10573980&hydadcr=12763_1720986 line 2054 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.de."
+JavaScript warning: https://www.amazon.de/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=samsung+ultra line 10372 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.amazon.de/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=samsung+ultra, line 98: Error: s-asin-actions already registered
+JavaScript error: https://www.amazon.de/s/ref=nb_sb_noss?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Daps&field-keywords=samsung+ultra, line 98: Error: s-add-to-cart-controller already registered
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.amazon.de."
+2023-06-06 23:28:42.995 plugin-container[13803:855714] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 23:28:42.996 plugin-container[13803:855714] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-06 23:28:43.002 plugin-container[13803:855714] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 23:28:43.002 plugin-container[13803:855714] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-06-06 23:28:43.002 plugin-container[13803:855716] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-06-06 23:28:43.002 plugin-container[13803:855716] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/01zKhl-DyGL._RC|21ojI99jc4L.js,41jF+wEomJL.js,01N0G7oHRlL.js,31afBQnlthL.js,21Gn8WTjh2L.js,11viIoOEOPL.js,01KVpvQDfZL.js,21s01qABMwL.js,218yvXUxhcL.js,01TF4KwVp5L.js,21p-Cc6hWJL.js,31M5iaJEqeL.js,21Esw6sfkbL.js,01IFYXVRsrL.js,01yvf1weXCL.js,21O7Mwm2eJL.js,21fAUGxUxsL.js,51hQVAVKJmL.js,31DHAiTy0zL.js,01ly-sHeg8L.js,31-CB6cPKmL.js,01acF69nbrL.js,31CF7mNdGYL.js,21i4Nr0pHgL.js,21zQdE9ch2L.js,21ptL48PNRL.js,11jC1BUSQzL.js,013Fzw-eTvL.js,21QnPVLIO1L.js,31i0Hd4f3IL.js,01993rJ5roL.js,011gqdvx+zL.js,01HV1B-ydIL.js,01TS2aImOxL.js,01RWIxvuYCL.js,012USBOk43L.js,01GsEhoWBNL.js_.js?AUIClients/SearchPartnerAssets, line 351: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/01zKhl-DyGL._RC|21ojI99jc4L.js,41jF+wEomJL.js,01N0G7oHRlL.js,31afBQnlthL.js,21Gn8WTjh2L.js,11viIoOEOPL.js,01KVpvQDfZL.js,21s01qABMwL.js,218yvXUxhcL.js,01TF4KwVp5L.js,21p-Cc6hWJL.js,31M5iaJEqeL.js,21Esw6sfkbL.js,01IFYXVRsrL.js,01yvf1weXCL.js,21O7Mwm2eJL.js,21fAUGxUxsL.js,51hQVAVKJmL.js,31DHAiTy0zL.js,01ly-sHeg8L.js,31-CB6cPKmL.js,01acF69nbrL.js,31CF7mNdGYL.js,21i4Nr0pHgL.js,21zQdE9ch2L.js,21ptL48PNRL.js,11jC1BUSQzL.js,013Fzw-eTvL.js,21QnPVLIO1L.js,31i0Hd4f3IL.js,01993rJ5roL.js,011gqdvx+zL.js,01HV1B-ydIL.js,01TS2aImOxL.js,01RWIxvuYCL.js,012USBOk43L.js,01GsEhoWBNL.js_.js?AUIClients/SearchPartnerAssets, line 351: This error message will be blank when privacy.resistFingerprinting = true.  If it is really necessary, please add it to the whitelist in MediaError::GetMessage: 
+JavaScript warning: https://www.amazon.de/dp/B08GPDX7RY/ref=redir_mobile_desktop?_encoding=UTF8&aaxitk=7d1f736b7fdbd6db17e6c7b71debb054&content-id=amzn1.sym.6f8b36f0-c2c9-44f2-97a8-5b151d2fc9c7%3Aamzn1.sym.6f8b36f0-c2c9-44f2-97a8-5b151d2fc9c7&hsa_cr_id=8687897450702&pd_rd_plhdr=t&pd_rd_r=1f28b119-5171-4087-9906-5872b115b29d&pd_rd_w=6WHh8&pd_rd_wg=PV6fs&qid=1686094117&ref_=sbx_be_s_sparkle_lsi4d_asin_0_img&sr=1-1-e0fa1fdd-d857-4087-adda-5bd576b25987 line 11251 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.de/s?k=samsung+ultra&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss line 10519 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("watcher.browserElement.browsingContext is null", "resource://devtools/server/actors/watcher/target-helpers/frame-helper.js", 193))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:189:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:106:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:667:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:711:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:587:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: #sendRequestBody@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:1348:7
+#dispatchActivity@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:504:30
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:617:29
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 1348, column: 7
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/shared/network-observer/NetworkObserver.sys.mjs", 1348))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:189:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:106:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:285:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:667:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:332:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+1686094158105	Marionette	INFO	Stopped listening on port 62179
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1686094160522	Marionette	INFO	Stopped listening on port 62102
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1686094162045	Marionette	INFO	Stopped listening on port 62015
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1686094165116	Marionette	INFO	Stopped listening on port 61913
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1686094168301	Marionette	INFO	Stopped listening on port 61828
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1686094170480	Marionette	INFO	Stopped listening on port 61788
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
