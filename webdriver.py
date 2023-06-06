@@ -17,6 +17,9 @@ google_search.send_keys("real madrid")
 
 
 
+
+
+
 # import webdriver with find element by xpath
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -35,6 +38,9 @@ element = driver.find_element(By.XPATH,'//*[@id="twotabsearchtextbox"]')
 element.send_keys("samsung ultra")
 element_click = driver.find_element(By.XPATH,'//*[@id="nav-search-submit-button"]')
 element_click.click()
+
+
+
 
 
 
